@@ -1,0 +1,11 @@
+*.exe
+nimblecache/
+htmldocs/
+bin/
+nimcache
+src/*
+!src/*.nim
+!src/*.cfg
+nimsuggest.log
+
+.vscode

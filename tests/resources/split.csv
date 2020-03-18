@@ -1,0 +1,287 @@
+0:00:00,Introduction - Beginning
+0:01:12,Introduction - Why Get the Solutions Architect Associate
+0:07:31,Introduction - Exam Guide Overview
+0:14:42,S3 - Introduction
+0:16:59,S3 - Storage Classes
+0:19:17,S3 - Storage Class Comparison
+0:21:12,S3 - Security
+0:23:17,S3 - Encryption
+0:24:41,S3 - Data Consistency
+0:25:45,S3 - Cross-Region Replication
+0:26:23,S3 - Versioning
+0:27:51,S3 - Lifecycle Management
+0:28:40,S3 - Transfer Acceleration
+0:29:26,S3 - Presigned URLs
+0:30:53,S3 - MFA Delete
+0:31:50,S3 - Follow Along - Create & Delete a Bucket
+0:33:48,S3 - Follow Along -  Upload Files & Make Public
+0:36:42,S3 - Follow Along - Versioning
+0:42:45,S3 - Follow Along - Encryption
+0:44:55,S3 - Follow Along - CLI
+0:50:09,S3 - Follow Along - Lifecycle Policies
+0:52:42,S3 - Follow Along - Cross Region Replication
+0:55:24,S3 - Follow Along - Bucket Policies
+0:58:39,S3 - S3 CheatSheet
+1:05:26,Snowball - Snowballl
+1:07:19,Snowball - Snowball Edge
+1:08:41,Snowball - Snowmobile
+1:09:27,Snowball - CheatSheet
+1:11:08,VPC - Introduction
+1:11:30,VPC - Core Components
+1:13:09,VPC - Key Features
+1:15:15,VPC - Default VPC
+1:16:38,VPC - Default Everywhere IP
+1:17:22,VPC - VPC Peering
+1:18:57,VPC - Route Tables
+1:19:56,VPC - Internet Gateway
+1:20:57,VPC - Bastions and Jumpbox
+1:22:30,VPC - Direct Connect
+1:23:24,VPC Endpoints - Introduction
+1:24:35,VPC Endpoints - Interface Endpoints
+1:25:42,VPC Endpoints - Gateway Endpoints
+1:26:19,VPC Endpoints - Cheatsheet
+1:27:04,VPC Flow Logs - Introduction
+1:28:13,VPC Flow Logs - Log Breakdown
+1:29:09,VPC Flow Logs - Cheatsheet
+1:30:14,NACL - Introduction
+1:31:52,NACL - Use Case
+1:32:30,NACL - Cheat Sheet
+1:33:43,Security Groups - Introduction
+1:35:26,Security Groups - Use Cases
+1:37:45,Security Groups - Limits
+1:38:39,Security Groups - Cheat Sheet
+1:39:56,NAT - Introduction
+1:40:42,NAT - NAT Instances vs NAT Gateways
+1:42:45,NAT - Cheatsheet
+1:44:30,VPC Follow Along - Create VPC, IGW, Route Tables and Subnets
+1:56:58,VPC Follow Along - Launch an EC2 Instance
+2:02:03,VPC Follow Along - Groups, NACL and Bastion
+2:14:59,VPC Follow Along - NAT
+2:18:24,VPC Follow Along - VPC Endpoints
+2:22:33,VPC Follow Along - Flow Logs
+2:25:24,VPC Follow Along - Cleanup
+2:27:38,IAM - Introduction
+2:27:51,IAM - Core Components
+2:30:22,IAM - Types of Policies
+2:31:22,IAM - Policy Structure
+2:33:48,IAM - Password Policy
+2:34:14,IAM - Access Keys
+2:34:59,IAM - Multi-Factor Authentication
+2:35:47,IAM - Follow Along
+2:50:37,IAM - Cheat Sheet
+2:52:30,Cognito - Introduction
+2:53:12,Cognito - Web Identity Federation
+2:54:17,Cognito - User Pools
+2:56:19,Cognito - Identity Pools
+2:57:32,Cognito - Sync
+2:58:12,Cognito - Cheat Sheet
+2:59:30,AWS CLI and SDK - Command Line Interface (CLI)
+3:00:59,AWS CLI and SDK - Software Development Kit (SDK)
+3:02:08,AWS CLI and SDK - Programmatic Access
+3:03:17,AWS CLI and SDK - Follow Along - Cloud 9 and CLI Setup
+3:07:57,AWS CLI and SDK - Follow Along -  CLI
+3:12:31,AWS CLI and SDK - Follow Along -  SDK
+3:20:41,AWS CLI and SDK - CLI & SDK Cheat Sheet
+3:21:46,DNS - Introduction
+3:22:35,DNS - Internet Protocol (IP)
+3:24:03,DNS - Domain Registrars
+3:25:06,DNS - Top-Level Domains
+3:26:06,DNS - Start of Authority (SOA)
+3:27:11,DNS - A Records
+3:27:52,DNS - CNAME Records
+3:28:36,DNS - NS Records
+3:29:29,DNS - Time To Live (TTL)
+3:30:00,DNS - Cheat Sheet
+3:31:36,Route 53 - Introduction
+3:32:24,Route 53 - Use Case
+3:33:32,Route 53 - Record Sets
+3:25:05,Route 53 - Routing Policies
+3:36:19,Route 53 - Simple Routing Policies
+3:37:13,Route 53 - Weighted Routing Policies
+3:38:15,Route 53 - Latency Based Routing
+3:39:23,Route 53 - Failover Routing Policies
+3:40:32,Route 53 - Geolocation Routing Policies
+3:41:05,Route 53 - Geoproximity Routing Policies
+3:42:57,Route 53 - Multi-Value Answer Policies
+3:43:25,Route 53 - Health Checks
+3:44:30,Route 53 - Resolver
+3:45:07,Route 53 - Cheat Sheet
+3:47:14,EC2 - Introduction
+3:48:48,EC2 - Instance Types
+3:50:52,EC2 - Instance Sizes
+3:51:42,EC2 - Instance Profiles
+3:53:01,EC2 - Placement Groups
+3:54:31,EC2 - Userdata
+3:55:26,EC2 - Metadata
+3:56:12,EC2 - EC2 Cheat Sheet
+3:48:05,EC2 Pricing - Introduction
+3:58:23,EC2 Pricing - On-Demand Instances
+3:58:59,EC2 Pricing - Reserved Instances
+4:01:32,EC2 Pricing - Spot Instances
+4:03:17,EC2 Pricing - Dedicated Host Instances
+4:04:49,EC2 Pricing - EC2 Pricing Cheat Sheet
+4:07:40,AMI - Introduction
+4:08:51,AMI - Use Cases
+4:10:08,AMI - Marketplace
+4:11:00,AMI - Create an AMI
+4:11:19,AMI - Choosing an AMI
+4:13:21,AMI - Coping an AMI
+4:13:46,AMI - AMI Cheat Sheet
+4:15:13,Auto Scaling Groups - Introduction
+4:15:51,Auto Scaling Groups - Capacity Settings
+4:17:02,Auto Scaling Groups - Health Check Replacements
+4:18:23,Auto Scaling Groups - Scaling Policies
+4:20:12,Auto Scaling Groups - ELB Integration
+4:21:03,Auto Scaling Groups - Use Case
+4:22:05,Auto Scaling Groups - Launch Configuration
+4:23:36,Auto Scaling Groups - Autoscaling Groups Cheat Sheet
+4:25:04,ELB - Introduction
+4:25:52,ELB - Rules of Traffic
+4:28:03,ELB - Application Load Balancer (ALB)
+4:28:54,ELB - Network Load Balancer (NLB)
+4:29:25,ELB - Classic Load Balancer (CLB)
+4:30:27,ELB - Sticky Sessions
+4:21:24,ELB - X-Forwarded-For Header
+4:32:21,ELB - Health Checks
+4:33:23,ELB - Cross-Zone Load Balancing
+4:34:17,ELB - Request Routing
+4:35:28,ELB - ELB Cheat Sheet
+4:37:17,EC2 Follow Along - Launching an Instance
+4:47:25,EC2 Follow Along - SSH Into Instance
+4:53:47,EC2 Follow Along - Encrypted Snapshots
+4:57:44,EC2 Follow Along - Creating an AMI
+5:02:19,EC2 Follow Along - Working with ASGs
+5:26:05,EC2 Follow Along - Register a Domain
+5:29:44,Elastic File System EFS - Introduction
+5:41:01,Elastic File System EFS - Mounting EFS
+5:49:50,Elastic File System EFS - EFS Cheat Sheet
+5:50:37,Elastic Block Store EBS - Introduction
+5:52:23,Elastic Block Store EBS - Volume Types
+5:55:15,Elastic Block Store EBS - Medium HDD
+5:56:27,Elastic Block Store EBS - Medium SSD
+5:57:08,Elastic Block Store EBS - Magnetic Tapes
+5:57:50,Elastic Block Store EBS - Moving Volumes
+5:58:44,Elastic Block Store EBS - Encrypted Root Volumes
+6:00:05,Elastic Block Store EBS - EBS vs Instance Store Volumes
+6:02:27,Elastic Block Store EBS - EBS Cheat Sheet
+6:04:05,CloudFront - Introduction
+6:05:20,CloudFront - Core Components
+6:06:24,CloudFront - Distributions
+6:08:52,CloudFront - Lambda@Edge
+6:10:25,CloudFront - Protection
+6:12:31,CloudFront - Create a Distribution
+6:16:18,CloudFront - Serve S3 Files From Distribution
+6:19:26,CloudFront - Create an Invalidation
+6:21:02,CloudFront - CloudFront Cheat Sheet
+6:23:16,RDS - Introduction
+6:23:55,RDS - Encryption
+6:24:37,RDS - Backups
+6:26:02,RDS - Restoring Backups
+6:26:57,RDS - Multi-AZ
+6:27:57,RDS - Read Replicas
+6:28:56,RDS - Multi-AZ vs Read Replicas
+6:30:19,RDS - Follow Along - Create an Instance
+6:41:42,RDS - Follow Along - Performance Insights
+6:43:11,RDS - Follow Along - Reserved Instances
+6:45:38,RDS - Follow Along - Working with Snapshots
+6:52:35,RDS - Follow Along - Aurora Serverless
+7:00:11,RDS - RDS Cheat Sheet
+7:02:14,Aurora - Introduction
+7:03:12,Aurora - Scaling
+7:03:45,Aurora - Availability
+7:04:16,Aurora - Fault Tolerance & Durability
+7:04:39,Aurora - Replicas
+7:05:17,Aurora - Serverless
+7:06:56,Aurora - Aurora Cheat Sheet
+7:07:58,Redshift - Redshift
+7:19:37,DynamoDB - Introduction
+7:21:36,DynamoDB - Table Structure
+7:22:13,DynamoDB - Consistent Reads
+7:23:54,DynamoDB - DynamoDB Cheat Sheet
+7:25:04,CloudFormation - Introduction
+7:27:03,CloudFormation - Template Formats
+7:27:50,CloudFormation - Template Anatomy
+7:30:50,CloudFormation - QuickStarts
+7:31:40,CloudFormation - CloudFormation Cheat Sheet
+7:33:34,CloudWatch - Introduction
+7:34:12,CloudWatch - CloudWatch Logs
+7:35:24,CloudWatch - CloudWatch Metrics
+7:36:16,CloudWatch - CloudWatch Events
+7:37:09,CloudWatch - Custom Metrics
+7:38:25,CloudWatch - CloudWatch Alarms
+7:39:10,CloudWatch - CloudWatch Dashboards
+7:39:43,CloudWatch - Availability
+7:40:42,CloudWatch - Agent & Host Level Metrics
+7:41:47,CloudWatch - CloudWatch Follow Along
+7:51:56,CloudWatch - CloudWatch Cheat Sheet
+7:54:07,CloudTrail - Introduction
+7:55:37,CloudTrail - Event History
+7:56:26,CloudTrail - Trail Options
+7:57:23,CloudTrail - CloudTrail to CloudWatch
+7:57:58,CloudTrail - Management vs Data Events
+7:59:15,CloudTrail - Follow Along - CloudTrail Overview
+8:00:17,CloudTrail - Follow Along - Create a Trail
+8:03:28,CloudTrail - Follow Along - CloudTrail to CloudWatch
+8:04:02,CloudTrail - Follow Along - Athena
+8:06:30,CloudTrail - CloudTrail Cheat Sheet
+8:07:52,Lambda - Introduction
+8:09:02,Lambda - Use Cases
+8:10:30,Lambda - Triggers
+8:11:38,Lambda - Pricing
+8:13:05,Lambda - Interface
+8:14:15,Lambda - Defaults and Limits
+8:16:22,Lambda - Cold Starts
+8:18:16,Lambda - Lambda Cheat Sheet
+8:19:47,SQS - Introduction
+8:22:40,SQS - Use Case
+8:23:39,SQS - Limits & Retention
+8:24:38,SQS - Queue Types
+8:25:50,SQS - Visibility Timeout
+8:27:12,SQS - Short vs Long Polling
+8:28:30,SQS - SQS Cheat Sheet
+8:30:36,SNES - Introduction
+8:33:40,SNES - Topics
+8:34:29,SNES - Subscriptions
+8:36:15,SNES - Application As Subscriber
+8:37:01,SNES - Cheat Sheet
+8:38:40,ElastiCache - Introduction
+8:40:50,ElastiCache - Caching Comparison
+8:42:21,ElastiCache - ElastiCache Cheat Sheet
+8:43:03,High Availability HA - High Availability (HA)
+8:46:26,High Availability HA - Scale Up and Scale Out
+8:47:35,Elastic Beanstalk - Introduction
+8:49:33,Elastic Beanstalk - Follow Along - Overview
+8:50:35,Elastic Beanstalk - Follow Along - Prepare Archive
+8:54:32,Elastic Beanstalk - Follow Along - Upload Archive
+8:56:36,Elastic Beanstalk - Follow Along - Create a Web App
+9:01:11,Elastic Beanstalk - Follow Along - Cleanup
+9:02:49,Elastic Beanstalk - Cheat Sheet
+9:03:46,API Gateway - Introduction
+9:04:58,API Gateway - Key Features
+9:05:34,API Gateway - Configuration Part
+9:09:35,API Gateway - Caching
+9:10:09,API Gateway - CORS
+9:11:36,API Gateway - Same Origin Policy
+9:12:41,API Gateway - Cheat Sheet
+9:14:49,Kinesis - Introduction
+9:15:35,Kinesis - Data Streams
+9:17:06,Kinesis - Firehose
+9:18:55,Kinesis - Video Streams
+9:19:41,Kinesis - Data Analytics
+9:20:26,Kinesis - Cheat Sheet
+9:22:25,Storage Gatway - Introduction
+9:23:41,Storage Gatway - File Gateway
+9:24:34,Storage Gatway - Volume Gateway
+9:27:36,Storage Gatway - Tape Gateway (VTL)
+9:28:52,Storage Gatway - Cheat Sheet
+9:30:09,Serverless Follow Along - Follow Along - Overview
+9:30:38,Serverless Follow Along - Follow Along - Setup Bucket
+9:34:45,Serverless Follow Along - Follow Along - SNS
+9:37:27,Serverless Follow Along - Follow Along - DynamoDB
+9:39:44,Serverless Follow Along - Follow Along - ACM, CloudFront, Route53
+9:49:48,Serverless Follow Along - Follow Along - Cloud 9 and Review Lambda
+9:54:48,Serverless Follow Along - Follow Along - Create and Test Lambda
+10:07:29,Serverless Follow Along - Follow Along - API Gateway
+10:15:34,Serverless Follow Along - Follow Along - Testing Production
+10:16:55,Serverless Follow Along - Follow Along - Cleanup
+10:20:57,Summary - Booking Your Exam
